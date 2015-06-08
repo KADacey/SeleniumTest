@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <productDisplayName>Apple iPhone 4S 16GB SIM-Free – Black</productDisplayName>
+    <productTextName>Apple iPhone 4S 16GB SIM-Free - Black</productTextName>
+    <countryName>USA</countryName>
+    <emailAddress>kadacey@hotmail.com</emailAddress>
+    <firstName>Ken</firstName>
+    <lastName>Dacey</lastName>
+    <address>123 Elm Street</address>
+    <cityName>Any Town</cityName>
+    <postalCode>98029</postalCode>
+    <phoneNumber>425-123-4567</phoneNumber>
+    <expectedPrice>282.00</expectedPrice>
+  </Row>
+</Rows> 
