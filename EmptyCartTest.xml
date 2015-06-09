@@ -3,5 +3,6 @@
   <Row>
     <productDisplayName>Apple iPhone 4S 16GB SIM-Free – Black</productDisplayName>
     <productTextName>Apple iPhone 4S 16GB SIM-Free - Black</productTextName>
+    <emptyCartMsg>Oops, there is nothing in your cart.</emptyCartMsg>
   </Row>
 </Rows>
