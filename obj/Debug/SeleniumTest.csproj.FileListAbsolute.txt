@@ -1,0 +1,13 @@
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\IEDriverServer.exe
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll.config
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+c:\users\ken\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\EmptyCartTest.xml
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\PurchasePhoneTest.xml
+C:\Users\Ken\Documents\Visual Studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\UpdateAccountTest.xml
